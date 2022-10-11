@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @acetrondi aka acet pronounced as 'a-sset'
+- 👋 Hi, I’m kai
 - 👀 I’m interested in Javascript, ReactJS, Solidity, Blockchain, NFT Projects, NodeJS
 - 🌱 I’m currently learning JS, solidity, NFT for now, might expand my domain later
 - 💞️ I’m looking to collaborate on solidity, smart contracts, nft projects
